@@ -1,0 +1,12 @@
+{
+    "name": "danya/cuidado",
+    "description": "mi negocio web",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Danya Contreras",
+            "email": "danyagomes028@outlook.com"
+        }
+    ],
+    "require": {}
+}
